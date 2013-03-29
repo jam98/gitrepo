@@ -1,1 +1,10 @@
+<<<<<<< HEAD
  am changing it from the pc, hahahahaha~~~:
+=======
+ am changing it from CADE machine
+
+ NENENENENENE
+
+ ~~~
+ 
+>>>>>>> 1735d4df3c44cc11371b1065ea243aeca9418bc1
